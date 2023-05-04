@@ -1,0 +1,4 @@
+qn,A,B,C,D,ans
+"Suppose that f(1) = 2,f(4) = 7,df(1)/dx = 5, df(4)/dx = 3, and second derivative is continuous. Find the integral of 4x*(second derivative of f)",1,2,3,4,B
+"Find the first derivative of the inverse of f(x)=2x3 +3x2 +7x+4, x=4",3-Jul,5-Jun,1-Jul,8-Jun,C
+Find the exact value of arcsin1,pi÷3,2*pi/5,3*pi/2,pi/2,D

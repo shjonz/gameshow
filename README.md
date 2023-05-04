@@ -1,7 +1,7 @@
 # gameshow
 10.014 Computational Thinking for Design Project
 
-Installation 
+Installation
 Download the files 
 1. finalbackup2021.py
 2. stage1.csv

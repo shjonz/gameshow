@@ -1,6 +1,17 @@
 # gameshow
 10.014 Computational Thinking for Design Project
 
+Installation 
+Download the files 
+1. finalbackup2021.py
+2. stage1.csv
+3. stage2lesser.csv
+4. stage3lesser.csv
+
+run the python code!
+
+
+Overview
 This game is similar to game shows where competing contestants gain points by answering questions. 
 
 There are 3 stages of questions to answer in the game.

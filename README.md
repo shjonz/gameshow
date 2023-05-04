@@ -10,6 +10,9 @@ Download the files
 
 run the python code!
 
+5. CTD_Documentation
+here is the more detailed explanation of the code
+
 
 Overview
 This game is similar to game shows where competing contestants gain points by answering questions. 

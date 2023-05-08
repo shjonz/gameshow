@@ -1,4 +1,5 @@
-# GameShow
+# ![GameShow (2)](https://user-images.githubusercontent.com/81726240/236750476-c56a3e3b-da98-48da-bdc3-eb34745125dc.png)
+
 10.014 Computational Thinking for Design Project
 
 ## Features

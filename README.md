@@ -53,3 +53,6 @@ Gameshow uses simple python modules:
 - Time
 - Csv
 - Os
+
+## Footer
+icon taken from <a href="https://www.flaticon.com/free-icons/simon" title="simon icons">Simon icons created by Freepik - Flaticon</a>

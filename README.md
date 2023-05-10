@@ -13,11 +13,11 @@ This game is similar to game shows where competing contestants gain points by an
 
 There are 3 stages of questions to answer in the game.
 
-![1](https://user-images.githubusercontent.com/81726240/236749822-bb5149b9-4cd6-40fa-8fc7-10b77e0c90b2.png)
-![2](https://user-images.githubusercontent.com/81726240/236749862-790e5f88-a240-46ea-9c40-b445d8c37e6d.png)
+<img src="https://user-images.githubusercontent.com/81726240/236749822-bb5149b9-4cd6-40fa-8fc7-10b77e0c90b2.png" width="582" height="245">
+<img src="https://user-images.githubusercontent.com/81726240/236749862-790e5f88-a240-46ea-9c40-b445d8c37e6d.png" width="767" height="487">
 At the top we start out with the 3 different users who will enter their names. After a few seconds, the prompter will load stage 1 which is a series of multiple choice questions. If the contestant chooses the right answer, he will be awarded the points accordingly, else the question will be given to the next player
 
-![3](https://user-images.githubusercontent.com/81726240/236749954-b3c08c99-9382-4ce6-846a-eae78e5cb23c.png)
+<img src="https://user-images.githubusercontent.com/81726240/236749954-b3c08c99-9382-4ce6-846a-eae78e5cb23c.png" width="649" height="450">
 In this picture, stage 2 starts, this round is a round of hangman. Guessing the correct letter will reveal how many lives the player has to live and how many points left. The words are revealed when guessed correctly. Players who are eliminated will not make it to the 3rd stage. 
 
 <img src="https://user-images.githubusercontent.com/81726240/236750066-3bc62743-9322-4b5a-b60b-df06015b7152.png" width="1024" height="450">

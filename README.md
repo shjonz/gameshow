@@ -20,11 +20,10 @@ At the top we start out with the 3 different users who will enter their names. A
 ![3](https://user-images.githubusercontent.com/81726240/236749954-b3c08c99-9382-4ce6-846a-eae78e5cb23c.png)
 In this picture, stage 2 starts, this round is a round of hangman. Guessing the correct letter will reveal how many lives the player has to live and how many points left. The words are revealed when guessed correctly. Players who are eliminated will not make it to the 3rd stage. 
 
-![4](https://user-images.githubusercontent.com/81726240/236750066-3bc62743-9322-4b5a-b60b-df06015b7152.png)
+<img src="https://user-images.githubusercontent.com/81726240/236750066-3bc62743-9322-4b5a-b60b-df06015b7152.png" width="1024" height="450">
 In this image, stage 3 starts where they undergo the same questions, however if they both answer correctly, the point is awarded by how fast the person selects the right answer. In the next image, we can see how long the person takes to enter the answer with respect to time.
 
-![5](https://user-images.githubusercontent.com/81726240/236750146-d6b937c3-9bbd-4047-9dc0-2a3abb51425a.png)
-
+<img src="https://user-images.githubusercontent.com/81726240/236750146-d6b937c3-9bbd-4047-9dc0-2a3abb51425a.png" width="1024" height="525">
 <img src="https://user-images.githubusercontent.com/81726240/236750166-3fef459f-3920-4ba9-aa2a-562ff1f0ed81.png" width="388" height="301">
 
 Here the previous player answer the question in 0.8175 seconds and also we display the winner of the entire game. 
